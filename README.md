@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on data world.
-- 🌱 I’m currently learning about technology and business.
+- 📚 I’m currently learning about technology and business.
 - 📫 How to reach me: denisperonico@gmail.com
 
 ##
